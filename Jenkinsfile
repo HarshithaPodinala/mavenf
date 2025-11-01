@@ -1,5 +1,5 @@
 node {
-  stage('cloning mav project')
+  stage('cloning maven project')
   {
     git 'https://github.com/Sharath-yp25/mavenproject.git'
   }
